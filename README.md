@@ -1,6 +1,38 @@
 # CodeHelper
 
-CodeHelper is a macOS utility app that allows developers to quickly capture screen content and generate intelligent code suggestions, optimized solutions, and understanding approaches using AI.
+🌟 **The World's #1 Stealth Development Assistant** 🌟  💻 **Zero Footprint** • 👻 **Completely Invisible** • 
+
+
+CodeHelper is the most advanced macOS utility app that operates with **complete undetectability**, featuring an invisible window with zero system footprint while delivering powerful AI-powered coding assistance.
+
+---
+
+## 🎟️ New User Offer
+`47288725f8661ede1832a4a04e335a290bf82f92aa880b96c2123bf05904aeb8`  
+*(Valid for pre-raise/new commerce users only)*  
+
+🔑 **For a real product key**, email: [maasterrai@gmail.com](mailto:maasterrai@gmail.com)
+
+---
+
+---
+
+## ✨ Legendary Features
+
+- 👻 **The Biggest Undetectability**  
+  _Invisible window technology - leaves no traces in system monitoring_
+
+- 🏆 **World's #1 Stealth Software**  
+  _No background processes 
+
+- 🚫 **Zero System Impact**  
+  _Runs without any visible window with zero system
+
+- 🖼️ **Ghost Screen Capture**  
+  Captures screen content without detection
+
+- ⌨️ **Silent Shortcuts**  
+  Customizable hotkeys that don't trigger system alerts
 
 ---
 
@@ -82,9 +114,9 @@ Make sure to enable **Screen Recording** in System Settings for the app to funct
 System Settings → Privacy & Security → Screen Recording → CodeHelper
 
 ## 👨‍💻 Author
-Sk Jasimuddin
-📅 Created: 04/04/2025 Saka
-🚀 Code smarter. Build faster.
+Sk Jasimuddin  
+📅 Created: 04/04/2025 Saka  
+🚀 Code invisibly. Build without traces.
 
 
 
